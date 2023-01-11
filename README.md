@@ -196,3 +196,4 @@ The uses of Ayyanar Lake in Neyveli are
 ![HTML Validator](./validator.png)
 
 ## Result:
+The program for implementing image map is executed successfully
